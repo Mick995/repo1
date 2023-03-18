@@ -1,1 +1,3 @@
-DOMACI
+# DOMACI
+
+Kreiranje virtuelnog okruzenja
